@@ -25,4 +25,4 @@ requires:
   Format::Human::Bytes: 0
   URI::Escape: 0
   perl: 5.010001
-version: 0.00001
+version: 0.00002
